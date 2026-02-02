@@ -150,14 +150,4 @@ Handled **NOT here**:
 
 ---
 
-## 🚀 Next Logical Step
-
-After this gateway:
-
-1. Build **auth-service**
-2. Add JWT verification here
-3. Connect frontend → gateway only
-
----
-
 > "This API Gateway is designed as a lightweight reverse proxy using NGINX, enforcing security and routing policies while delegating business logic to independently deployed microservices."
